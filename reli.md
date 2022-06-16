@@ -364,6 +364,35 @@ Achtzehn-Bitten-Gebet
 
 TODO: Abraham, Bund mit Gott, Stammvater der Abrahamitischen Religionen (warum Stammvater)
 
+### Abraham
+
+Auf der Flucht: 
+ Abraham lebte ~4000 Jahre vor unserer Zeit. Stammte aus Ur (Balylon eine Reiche Stadt), welche aber von Truppen belagert wurden. weshalb seine Familie nach Harran fliete. (Irgandwo in den Nordenhalt).
+
+ Gott erscheit Abraham und befielt ihm aber in der Gelobte Land zu wandern(Kanaan), velches ihm got verheißt. Dies soll dann das Land der Israeliten werden.
+ Kanaan, in der Bibl ist das Land westlich des Jordans gemeint. Heute umfasst es dieses Gebiet und Teile Palestinas.
+
+Gottes Bund:
+ Gott erscheint Abraham öfters und macht ihm große Versprechungen. "Seine Nachkommen sollen so zahlreich sein wie die Staubkörner auf der Erde und die Sterne am Firmament"
+ Abraham soll seinem Gott treu sein, genauso seine Nachfahren und als beleg des Glaubens sollen seine NAchfahren beschnitten werden.
+
+Söhne Abrahams:
+ Abraham und seine Frau Sarah werden zu alt um Kinder zu bekommen. Sarah schikt ihre Sklavin Hagar um die Kinder zu bekommen. 
+ 1. Kind ist Ismael, Stammvater der Muslime. 
+ 
+ Dann chillt sich eines Tages Gott selber zu ihnen und sgat das sie schon bald einen Sohn erwarten. mit 90 (bruh) bekommen sie Isaak. 
+ Gott möchte den ULTIMATIVEN TREUEBEWEIS. Er soll seinen Sohn Opfern (Findet Abraham nicht so geil), doch er gehorcht und dann so Gott "just a Prank" und hindert ihn daran. 
+
+Enkel Abrahams:
+ Abraham (Stammvater) -> Isaak (Erzvater des Judentums) -> Jakob (neuer name Israel) 
+ Jakob war fleisig: 12 Söhne = Begründer der Stämme Israels. z.B.: Josef welcher als Skalve in Ägypten Karriere macht. (Geschichte Josef halt)
+
+ NextGen: Wird das Volk versklat und Mose erneuert den Bund mit Gott und gehen wieder in die Freihet und raus aus Ägypten.
+
+Ausgangspunkt der Buchreligionen:
+ Ausgangspunkt: Judentum, Christen, Islam [Abrahamitische Religionen]
+
+
 ## Judentum
 
 ### Sabbat
