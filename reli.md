@@ -107,6 +107,10 @@ TODO: "Das Goldene Kalb in unserer Zeit.docx"
 Götzen = "Abgott" - ein für die Religion Fremder Gott z.b. ein Bild von Gott (z.b. als goldenes Kalb)
 Götzendienst = das Anbeten und Verehren einer Götze
 
+## Wer war Mose
+
+TODO
+
 # B
 
 ## Evangelien
@@ -329,7 +333,7 @@ beschnitten
 weil mit phariseher diskutiert hat
 er lehnt "König der Juden" nicht ab
 Feiertage gehalten
-er wurde als Rabbi angesprochen
+er wurde als Rabbi angesprochen (jüdischer Lehrer)
 Achtzehn-Bitten-Gebet
 
 # G
