@@ -1,4 +1,4 @@
-Version: 0.9.67
+Version: 0.9.675
 
 # 10 Gebote
 
@@ -177,13 +177,14 @@ Das Kirchenjahr beginnt mit dem 1. Adventsonntag.
 
 ### Lithurgische Farben
 
--   **Weiß**: die Farbe des Lichtes, des Sieges und der Freude (Ostern, Weihnachten, Herrenfeste, Fronleichnam)
--   **Grün**: als Farbe der Hoffnung und des Lebens, des organischen Wachstums.
-    (Zeit im Jahreskreis)
--   **Violett**: als Farbe der Sehnsucht nach Licht und Leben; steht auch für Umkehr, Buße und Verwandlung (Advent, Fastenzeit, Buße, Begräbnis)
--   **Rosa**: Farbe der Vorfreude (3. Adventsonntag, 4. Fastensonntag (Laetare))
--   **Rot**: als Farbe des Feuers, Heiligen Geistes, der Liebe und des Blutes (Palmsonntag, Karfreitag, Pfingsten, Apostelfeste, Märtyrertage)
--   **Schwarz**: Farbe des Leides, Schmerzes und Todes (Begräbnis, Totenmesse)
+| Farbe       | Farbe - Bedeutung/Interpretation                             | Verwendung                                                     |
+| ----------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
+| **Weiß**    | Licht, Sieg, Freude                                          | Ostern, Weihnachten, Herrenfeste, Fronleichnam                 |
+| **Grün**    | Hoffnung, Leben, organisches Wachstum                        | Zeit im Jahreskreis                                            |
+| **Violett** | Sehnsucht nach Licht und Leben, Umkehr, Buße und Verwandlung | Advent, Fastenzeit, Buße, Begräbnis                            |
+| **Rosa**    | Vorfreude                                                    | 3. Adventsonntag, 4. Fastensonntag (Laetare)                   |
+| **Rot**     | Feuer, Heiliger Geist, Liebe und Blut                        | Palmsonntag, Karfreitag, Pfingsten, Apostelfeste, Märtyrertage |
+| **Schwarz** | Leid, Schmerz, Tod                                           | Begräbnis, Totenmesse                                          |
 
 Es gibt 2 Festkreise:
 
@@ -191,7 +192,7 @@ Es gibt 2 Festkreise:
 -   Weihnachtsfestkreis (vier Adventssonntage, den Weihnachtstag, Sonntage nach Weihnachte n)
 -   Zeit im Jahreskreis: Nach Taufe Jesus bis Aschermittwoch und von Pfingsten bis 1 Adventssonntag
 
-Die restliche Zeit wird Zeit im Jahreskreis genannt.
+Die restliche Zeit wird "Zeit im Jahreskreis" genannt.
 
 ### Weihnachtsfestkreis:
 
@@ -210,7 +211,7 @@ Heiliger Nikolaus (Bischof Nikolaus von Myra):
 -   Beschenkt Kinder Nachts -> Socken aufstellen
 -   3 Goldäpfel Legende: Nikolaus wirft 3 Jungfrauen 3 Goldbarren durchs Fenster damit sie genug geld haben für eine Hochzeit.
 -   Knecht Ruprecht (Begleiter vom Nikolaus): Klein, Bart, Schwarz und Braun, Rute + Geschenkkorb -> vermutlich Kommt der Krampus davon
--   Luther wollte sich auf den "Heiligen Christ" (Jesus Christus) freuen -> daraus Christkind (ironisch weil Weihnachtsmann unter Evangelisten sehr verbreitet ist [ODER?])
+-   Luther wollte sich auf den "Heiligen Christ" (Jesus Christus) freuen -> daraus Christkind (ironisch weil Weihnachtsmann unter Evangelisten sehr verbreitet ist)
 
 Christkind:
 
@@ -238,9 +239,6 @@ Christkind:
 Hase weil Zeichen der Fruchtbarkeit.
 Eier weil während der Fastenzeit darf man keine Essen -> zu viele Eier
 Eier werden gekocht damit sie länger haltbar sind und gefärbt (Rot) damit man sie von den Frischen erkennt.
-
-Liturgische Farben:
-TODO!!
 
 TODO: Lesekreise
 
@@ -340,13 +338,13 @@ Achtzehn-Bitten-Gebet
 
 > Das Judentum, der Islam und das Christentum sind abrahamitische Religionen, da der Prophet Abraham eine bedeutende Rolle spielt. Alle 3 Religionen sind Monotheistisch.
 
-TODO: Abraham, Bund mit Gott, Stammvater der Abrahamitischen Religionen
+TODO: Abraham, Bund mit Gott, Stammvater der Abrahamitischen Religionen (warum Stammvater)
 
 ## Judentum
 
 ### Sabbat
 
-TODO: Sabbat, was macht man da? Blauer/Grauer Faden; Keine Geräte benutzen; ...
+TODO: Sabbat, was macht man da? Blauer/Grauer Faden; Keine Arbeit verrichten; ...
 
 ### Speisevorschriften
 
@@ -396,6 +394,10 @@ Im Christentum gibt es keine Speisevorschriften. Es gibt lediglich Traditionen, 
 
 TODO: Bergpredigt wegen Doppelgebot und Goldener Regel
 
-Doppelgebot (der Liebe) - "Liebe Gott (1.) und deinen Nächsten (2.) wie dich selbst" (Das/Die wichtigste/n Gebot/e laut Jesus), Hauptgebot
+### Doppelgebot (der Liebe):
 
-TODO: Sabbatgebot "Der Sabbat ist für den Menschen da, nicht der Mensch für den Sabbat"
+> "Liebe Gott (1.) und deinen Nächsten (2.) wie dich selbst"
+
+Jesus sagte in der Bergpredigt (stimmt das ?) das dies die wichtigsten Gebote sind
+
+TODO: Sabbatgebot "Der Sabbat ist für den Menschen da, nicht der Mensch für den Sabbat" + Interpretation
