@@ -1,4 +1,4 @@
-Version: 0.9.66
+Version: 0.9.67
 
 # 10 Gebote
 
@@ -28,6 +28,15 @@ Die ersten 5 Bücher sind von Mose:
     -   Schöpfungsgeschichten
 
         -   Schöpfung in der Erde
+
+                1. Tag => Licht
+                2. Tag => Himmel
+                3. Tag => Land und Wasser
+                4. Tag =>Sonne, Mond und Sterne
+                5. Tag => Fisch und Vögel
+                6. Tag => Mensch und Landlebewesen
+                7. Tag => Ruhetag / Sabbath
+
         -   die Erzählungen vom Garten Eden
         -   Vertreibung Adams und Evas daraus
         -   Kain und Abel, (Kapitel 3 und 4)
@@ -235,6 +244,8 @@ TODO: 3 Faltigkeit
 
 # E
 
+## Kirchengeschichte
+
 ### 2 Vatikanisches Konzil
 
 Einberufen von Papst Johannes dem 23., Beginn: 1962 im Petersdom (Rom), Ende: 1965
@@ -285,6 +296,8 @@ Ablasshandel = Sünden verkaufen können
 
 # F
 
+## Jesus der Christus
+
 ### Goldene Regel:
 
 "Verhalte dich deinen Mitmenschen gegenüber so, wie du selbst behandelt werden willst!"
@@ -321,13 +334,59 @@ Achtzehn-Bitten-Gebet
 
 # G
 
-TODO: Abraham, Bund mit Gott, Stammvater der Abrahamitischen Religionen (Judentum, Christentum, Islam)
+> Das Judentum, der Islam und das Christentum sind abrahamitische Religionen, da der Prophet Abraham eine bedeutende Rolle spielt. Alle 3 Religionen sind Monotheistisch.
 
-TODO: Islam, Judentum
+TODO: Abraham, Bund mit Gott, Stammvater der Abrahamitischen Religionen
 
-TODO: Speisevorschriften, "Schächten" bei Judentum und Islam, Töten der Tiere, Koscher
+## Judentum
 
-TODO: Sabbat, was macht man da?
+### Sabbat
+
+TODO: Sabbat, was macht man da? Blauer/Grauer Faden; Keine Geräte benutzen; ...
+
+### Speisevorschriften
+
+Alle Speisen, die erlaubt sind, werden Koscher genannt.
+Koscher sind
+
+-   Fische mit Flossen und Schuppen
+-   Paarhufer, die Wiederkäuer sind
+-   Geflügel
+
+Weitere Regeln:
+
+-   Tiere müssen geschächtet werden (Kehle durchschneiden und ausbluten lassen; in Österreich nur erlaubt, wenn das Tier sofort nach dem Schnitt getötet wird)
+-   "Koche kein Lamm oder Zicklein in seiner Mutter’s Milch" -> Milch und Fleisch müssen getrennt verarbeitet und verzehrt werden (Oft 2 Küchen)
+
+## Islam
+
+> „Hingabe“, „Unterwerfung“ oder „Gehorsam“
+
+Die Menschen werden "Muslim" und "Muslima" genannt.
+
+### 5 Säulen
+
+1. Schahāda (islamisches Glaubensbekenntnis)
+2. Salāt (Pflichtgebet)
+3. Zakāt (Almosengabe)
+4. Saum (Fasten im Ramadan)
+5. Haddsch (Pilgerfahrt nach Mekka)
+
+### Speisevorschriften
+
+Halal -> erlaubt
+Haram -> verboten
+
+-   Schächten, wie bei Judentum
+-   Schweinefleisch ist Haram
+
+## Christentum
+
+Im Christentum gibt es keine Speisevorschriften. Es gibt lediglich Traditionen, wie
+
+-   Fisch am Freitag
+-   Kein Fleisch am Aschermittwoch und Karfreitag
+-   Spinat am Gründonnerstag
 
 # H
 
