@@ -1,4 +1,4 @@
-Version: 0.9.675
+Version: 0.9.676
 
 # 10 Gebote
 
@@ -196,7 +196,31 @@ Die restliche Zeit wird "Zeit im Jahreskreis" genannt.
 
 ### Weihnachtsfestkreis:
 
-TODO!!
+**Feiertage:**
+
+-   Adventsonntage 1-4
+-   [Krampus (5.12.)]
+-   Heiliger Nikolaus (6.12.)
+-   Mariä Empfängnis (8.12.)
+-   Heiliger Abend (24.12.)
+-   Christtag (25.12.)
+-   Stefanitag (26.12.)
+-   [Silvester (31.12.)]
+-   Heilige 3 Könige (6.1.)
+-   Taufe Jesu (Sonntag nach 6.1.)
+
+**Traditionen**
+
+-   Adventkranz
+-   Adventkalender
+-   Roratemessen (In der früh vor der Arbeit)
+-   Geschenke
+-   Christstollen
+-   Chrisbaum
+-   Sternsingen(Aktion der KJS)
+    > C+M+B -> Christus mansionem benedicat\
+    > Christus segne dieses Haus
+-   Krippe mit Ochs und Esel
 
 ### Nikolaus, Weihnachtsmann, Christkind, Wer ist Wer?
 
