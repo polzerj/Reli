@@ -1,4 +1,4 @@
-Version: 0.9.65
+Version: 0.9.66
 
 # 10 Gebote
 
@@ -18,44 +18,67 @@ Version: 0.9.65
 
 # A
 
+## 5 Bücher Mose
+
 Heutige Bibel besteht aus 2 Teilen: Neues und Altes Testament
 Die ersten 5 Bücher sind von Mose:
 
 1.  Gen - _Genesis_ (Im Anfang . . .)
 
-    -   //Hier könnte ihre Werbung stehen
+    -   Schöpfungsgeschichten
+
+        -   Schöpfung in der Erde
+        -   die Erzählungen vom Garten Eden
+        -   Vertreibung Adams und Evas daraus
+        -   Kain und Abel, (Kapitel 3 und 4)
+        -   die Sintflut um Noah (Kapitel 6–9)
+        -   Turmbau zu Babel (Kapitel 11, erster Teil).
+
+    -   Vätergeschichten
+        -   Erzählungen im Land Israel um die Patriarchen Abraham (Kapitel 12–25)
+        -   Isaak, Jakob und Esau (Kapitel 25–35). Durch sie setzt Gott in die zerrüttete Welt einen segensvollen Neuanfang (Genesis 12,1–3).
+        -   Josef und seine Brüder (Kapitel 36–50) (die Handlung nach Ägypten verlagert)
 
 2.  Ex - _Exodus_ (Auszug . . . )
 
     -   Knüpft an das erste Buch an. Volksgeschichte - Mose befreit Hebräer aus Ägypten
+        -   Wegen 10 Plagen lässt der Pharao sie gehen
+        -   Ägypter jagen hinterher
+        -   Mose teilt das Rote Meer
+        -   Ägypter ertrinken
+        -   10 Gebote
 
 3.  Lev - _Levitikus_ (Gesetzessammlung)
 
-    -   HELO
+    -   ?
 
 4.  Num - _Numeri_ (Zählung der Kampffähigen
 
-    -   HELO
+    -   ?
 
 5.  Dtn - _Deuteronomium_ "Zweites Gesetz"
 
-    -   HELO
+    -   ?
 
 46 Bücher im AT
 27 Bücher im NT
 
-_Kanon_ -> Zusammenstellung der Bücher in der Bibel. (Ein Bauch ist aufgenommen in den Kanon)
+## Kanon
+
+> Zusammenstellung der Bücher in der Bibel. (Ein Bauch ist aufgenommen in den Kanon)
 
 -   Neues Testament wurde 400 n.Chr. in den Kanon aufgenommen.
 
 _Apokryph_ -> Bücher die nicht in der Bibel stehen, aber trotzdem den Biblischen Schriften sehr ähnlich
+Ein Beispiel für apokryphe Schriften ist das Thomas-Evangelium.
+
 _Perikopen_ = Bibelstellen
 
 TODO:
 10 Gebote vergleichen mit den der Essener.
 Essener sind eine Glaubensgemeinschaft die sich abgespalten hat aus dem jüdischen.
 
-Inspiration:
+## Inspiration:
 
 -   Verbalinspiration => Der Bibel wurden alle Worte von Gott eingehaucht
 
@@ -63,8 +86,10 @@ Inspiration:
 
 -   Realinspiration => Heiliger Geist übermittelt Inhalt von heiligen Schriften
 
+## Götzen und Idole
+
 Das goldene Kalb:
-_Mose besteigt den Berg_ Sinai, das Volk welches er mit der Hilfe von Gott befreit hat wartet am Fuß des Berges. Mose kommt nicht zurück und das _Volk wird ungeduldig_. Mit Mose fehlt eine Mittelfigur zischen ihnen und Gott. Sie fordern Aron (Moses Bruder) auf Götter zu machen die vor ihnen herziehen können (um nachzulaufen). Sie beginnen aus ihrem Goldschmuck ein goldenes Kalb zu gießen und bringen ihm Opfer dar und Tanzen um es herum.
+_Mose besteigt den Berg_ Sinai, das Volk welches er mit der Hilfe von Gott befreit hat wartet am Fuß des Berges. Mose kommt nicht zurück und das _Volk wird ungeduldig_. Mit Mose fehlt eine Mittelfigur zwischen ihnen und Gott. Sie fordern Aron (Moses Bruder) auf Götter zu machen die vor ihnen herziehen können (um nachzulaufen). Sie beginnen aus ihrem Goldschmuck ein goldenes Kalb zu gießen und bringen ihm Opfer dar und Tanzen um es herum.
 
 In heutiger Zeit:
 Wir suchen auch Leute (Idole) denen wir nachlaufen können. Idol ist, wenn etwas oder jemand wichtiger wird als Gott.
@@ -75,7 +100,7 @@ Götzendienst = das Anbeten und Verehren einer Götze
 
 # B
 
-Evangelien:
+## Evangelien
 
 -   Markus ~65n.Chr. Tier: _Löwe_ - In Griechisch, Erstes Evangelium, er sammelte Erzählungen
 -   Matthäus ~75n.Chr. Tier: _Mensch/Engel_ - In Aramänisch (Sprache Jesus), viele Stellen aus AT
@@ -84,13 +109,17 @@ Evangelien:
 
 Symbole gehen zurück auf eine Vision von Propheten Ezechiel
 
-2 Quellen Theorie:
+## 2 Quellen Theorie
+
 Quelle 1: Markus Evangelium (ist das Erste)
-Quelle 2: unbekannt ("Logienquelle")
+Quelle 2: Q (diese ist unbekannt und wird "Logienquelle" genannt)
 
-Evangelien von Matthäus und Lukas beruhen auf diesen 2 Quellen
+Evangelien von Matthäus und Lukas beruhen auf diesen 2 Quellen. Diese werden jedoch durch Sondergut Matthäus/Lukas ergänzt.
 
-Jesus und die Ehebrecherin:
+Da der Inhalt von Markus, Matthäus und Lukas so ähnlich ist, werden diese Synoptiker genannt.
+
+## Jesus und die Ehebrecherin:
+
 Mann will Ehebrecherin steinigen, Jesus sagt wer keine Sünde begangen hat soll zuerst werfen. Alle gehen und Jesus sagt sie soll nicht mehr sündigen. Ehre
 
 Vater Unser der Essener:
@@ -127,11 +156,29 @@ Gott wird weiblich dargestellt von Propheten Hoseja (Bärenmutter)
 
 # D
 
-Kirchenjahr und die Festkreise
+## Jahreskreis
+
+Das Kirchenjahr beginnt mit dem 1. Adventsonntag.
+
+![Jahreskreis](/images/D/Jahreskreis.png)
+
+### Lithurgische Farben
+
+-   **Weiß**: die Farbe des Lichtes, des Sieges und der Freude (Ostern, Weihnachten, Herrenfeste, Fronleichnam)
+-   **Grün**: als Farbe der Hoffnung und des Lebens, des organischen Wachstums.
+    (Zeit im Jahreskreis)
+-   **Violett**: als Farbe der Sehnsucht nach Licht und Leben; steht auch für Umkehr, Buße und Verwandlung (Advent, Fastenzeit, Buße, Begräbnis)
+-   **Rosa**: Farbe der Vorfreude (3. Adventsonntag, 4. Fastensonntag (Laetare))
+-   **Rot**: als Farbe des Feuers, Heiligen Geistes, der Liebe und des Blutes (Palmsonntag, Karfreitag, Pfingsten, Apostelfeste, Märtyrertage)
+-   **Schwarz**: Farbe des Leides, Schmerzes und Todes (Begräbnis, Totenmesse)
+
+Es gibt 2 Festkreise:
 
 -   Osterfestkreis (Heilige Woche mit dem "Triduum Sacrum" - heilige (stille) drei Tagen), bis Pfingsten
 -   Weihnachtsfestkreis (vier Adventssonntage, den Weihnachtstag, Sonntage nach Weihnachte n)
 -   Zeit im Jahreskreis: Nach Taufe Jesus bis Aschermittwoch und von Pfingsten bis 1 Adventssonntag
+
+Die restliche Zeit wird Zeit im Jahreskreis genannt.
 
 ### Weihnachtsfestkreis:
 
@@ -139,7 +186,7 @@ TODO!!
 
 ### Nikolaus, Weihnachtsmann, Christkind, Wer ist Wer?
 
-Weihnachtsmann:
+### Weihnachtsmann
 
 -   nicht von CocaCola
 -   Vereinigung von Knecht Ruprecht und Nikolaus von Myra
