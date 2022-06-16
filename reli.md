@@ -115,10 +115,10 @@ TODO
 
 ## Evangelien
 
--   Markus ~65n.Chr. Tier: _Löwe_ - In Griechisch, Erstes Evangelium, er sammelte Erzählungen
--   Matthäus ~75n.Chr. Tier: _Mensch/Engel_ - In Aramänisch (Sprache Jesus), viele Stellen aus AT
--   Lukas ~85n.Chr. Tier: _Stier_ - kannte das Evangelium von Markus, Jesus als Freund der Armen und Kranken.
--   Johannes ~95n.Chr. Tier: _Adler_ - Jesus als guter Hirte (anders als die anderen Evangelien geschrieben)
+-   Markus (Löwe) ~65n.Chr. Tier: _Löwe_ - In Griechisch, Erstes Evangelium, er sammelte Erzählungen
+-   Matthäus (Engel/Menschengesicht) ~75n.Chr. Tier: _Mensch/Engel_ - In Aramänisch (Sprache Jesus), viele Stellen aus AT
+-   Lukas (Stier) ~85n.Chr. Tier: _Stier_ - kannte das Evangelium von Markus, Jesus als Freund der Armen und Kranken.
+-   Johannes (Adler) ~95n.Chr. Tier: _Adler_ - Jesus als guter Hirte (anders als die anderen Evangelien geschrieben)
 
 Symbole gehen zurück auf eine Vision von Propheten Ezechiel
 
