@@ -131,6 +131,8 @@ Evangelien von Matthäus und Lukas beruhen auf diesen 2 Quellen. Diese werden je
 
 Da der Inhalt von Markus, Matthäus und Lukas so ähnlich ist, werden diese Synoptiker genannt.
 
+![2 Quellen Theorie](/images/B/Zwei-Quellen-Theorie.png)
+
 ## Jesus und die Ehebrecherin:
 
 Mann will Ehebrecherin steinigen, Jesus sagt wer keine Sünde begangen hat soll zuerst werfen. Alle gehen und Jesus sagt sie soll nicht mehr sündigen. Ehre
