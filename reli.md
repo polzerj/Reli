@@ -107,10 +107,6 @@ TODO: "Das Goldene Kalb in unserer Zeit.docx"
 Götzen = "Abgott" - ein für die Religion Fremder Gott z.b. ein Bild von Gott (z.b. als goldenes Kalb)
 Götzendienst = das Anbeten und Verehren einer Götze
 
-## Wer war Mose
-
-TODO
-
 # B
 
 ## Evangelien
@@ -296,20 +292,36 @@ Die wichtigsten Änderungen:
 -   TODO: andere!!
 
 TODO: Franz von Assisi
-
 Armut, Tiere, Vorbild vom Papst
+
+Franz von assisi 1182 geboren ( in assisi italien) - hat mit Geld von Daddy gemacht was er wollte
+Nach schwerer Krankheit - Jesus wurde Vorbild - Armut gelebt - der kleine Arme genannt
+hat Orden " Die Franziskaner" gegrüdnet
 
 TODO: Pontifex Maximus + Unfehlbarkeit des Papstes (Wir glauben an Engel) + Papstwahl "Konklave"
 
-TODO: Papst Franziskus
+Pontifex Maximus = Bischof von Rom ( ? ) , früher römischer Kaiser
 
-TODO: Kreuzzüge alle 7, warum (papst urban)
+Unfehlbarkeit des Papst = Wenn ein Papst in höchstr Lehrgewalt ex cathedra eine Entscheidung trifft -
+ist diese endgültig ( weil der Papst sozusagen den Kompass hat in die Richtung Gottes oder so?)
+
+Vorraussetzungen für Papstwahl: Männlich, getauft, u80. Seit 15 Jahrhundert nur noch Kardinale gewählt worden
+Konklave = Versammlung Wahlberechtigter um Papst zu wählen
+
+TODO: Papst Franziskus
+Papst Franziskus erster Lateinamerikanischer Papst - Buenos Aires(Argentinia), 
+Chemie und Theologie studiert, Nachfolger von Benedikt 16ten. 
+Wird auch Kardinal der Armen gennant - referenziert auf Franz von Assisi
 
 TODO: Hexenverbrennung - Woher kommt das, Position der Kirche, Heinrich Kramer
+Damals waren Hexen gefürchtet wegen ihrer Magie und das es vielleicht in Verbindung mit Teufel steht 
+die Kirche war damals auch gegen Hexen - Heinrich Kramer hat Hexenjagd betrieben
+- viele Menschen sterben - 18.Jahrhundert kaum mehr Hexen exekutionen
+- ca 50k Menschen dead 80% Frauen 20% Männer
 
 ### Kreuzzüge
 
-Sarazenen sind ein ehemaliges Volk aus Nordafrika, Allgemein wurden Araber und Moslems Sarazenen genannt.
+Sarazenen sind ein ehemaliges Volk aus Nordafrika, Allgemein wurden Araber und Moslems Sarazenen genannt. ( was heist das?)
 
 TODO:
 Insgesamt 7
@@ -320,7 +332,7 @@ ungefähr 1100
 Bekehrung der Muslime war kein Ziel! Christen aus Jerusalem befreien!
 Jerusalem einnehmen + andere Städte die im weg waren
 
-Ablasshandel = Sünden verkaufen können
+Ablasshandel = Sünden werden vergeben
 
 # F
 
