@@ -151,19 +151,30 @@ Er zählt auf was das für Nachteile hat:
 -   _Gott ist tot_! Gott bleibt tot! _Und wir haben ihn getötet_!
 -   Er ist unter unseren Messern verblutet, aber wie können wir die Schuld abwaschen. Welche Feste müssten wir dafür erfinden. Müssten wir nicht selbst Götter werden, um uns das zu vergeben?
 
-TODO: _Atheismus_ und _Nihilismus_ (GotteslehreZusammenfassung.docx)
-
 Nachdem starrt er in die Menge und sagt: "Ich bin zu früh." (Die Menschen verstehen ihn noch nicht da es zu früh ist ihre taten zu erkennen)
 
 Tetragramm : _J H W H_
+
+Das jüdische Synonym für Gott. Für Juden gibt es keinen ausprechbaren Namen für Gott - deswegen ist es ein Symbol.
 Im hebräischen kann man es nicht aussprechen, weil es keinen Namen gibt für Gott
 Luther übersetzt es mit "Herr"
 Katholiken mit JaHWeH
 Zeugen Jehovas mit JeHoWaH
 
+ _Atheismus_ und _Nihilismus_ (GotteslehreZusammenfassung.docx)
+
+Atheismus ist das Ablehnen von der Existenz von Göttern. Atheimus ist keine Religion
+
+Nihilismus ist das GLauben an Nichts, das alle menschlichen Werte egal sind. Nietsche hat es definiert und kritisiert. 
+Nietsche glaubte, dass der Nihilismus eine Phase ist, die überkommen werden muss, indem man beispielsweise etwas findet, an was man glauben kann.
+
 TODO: Gottesbilder (Demonisch, Leistungsgott)
 
-Gott wird weiblich dargestellt von Propheten Hoseja (Bärenmutter)
+Im AT: Gott war im AT der Schöpfer, als Befreier, als Beschützer und als helfender Begleiter.
+
+Im NT: Gott was ein Erlöser. Gott offenbart sich als Jesus Christus und ist ein Gott für alle Menschen. Gott ist Liebe.
+
+Gott wird weiblich dargestellt - oft als Mutter - beispielsweise von Propheten Hoseja (Bärenmutter)
 
 # D
 
@@ -298,9 +309,12 @@ Franz von assisi 1182 geboren ( in assisi italien) - hat mit Geld von Daddy gema
 Nach schwerer Krankheit - Jesus wurde Vorbild - Armut gelebt - der kleine Arme genannt
 hat Orden " Die Franziskaner" gegrüdnet
 
-TODO: Pontifex Maximus + Unfehlbarkeit des Papstes (Wir glauben an Engel) + Papstwahl "Konklave"
+Pontifex Maximus + Unfehlbarkeit des Papstes (Wir glauben an Engel) + Papstwahl "Konklave"
 
 Pontifex Maximus = Bischof von Rom ( ? ) , früher römischer Kaiser
+Der Papst ist das Oberhaupt der katholischen Kirche. Er trägt sehr viele Titel, zum Beispiel 'Bischof von Rom', 
+'Heiliger Vater' oder 'Primas von Italien'. Einer anderer Titel heißt 'Pontifex Maximus'
+
 
 Unfehlbarkeit des Papst = Wenn ein Papst in höchstr Lehrgewalt ex cathedra eine Entscheidung trifft -
 ist diese endgültig ( weil der Papst sozusagen den Kompass hat in die Richtung Gottes oder so?)
@@ -308,12 +322,12 @@ ist diese endgültig ( weil der Papst sozusagen den Kompass hat in die Richtung 
 Vorraussetzungen für Papstwahl: Männlich, getauft, u80. Seit 15 Jahrhundert nur noch Kardinale gewählt worden
 Konklave = Versammlung Wahlberechtigter um Papst zu wählen
 
-TODO: Papst Franziskus
+Papst Franziskus
 Papst Franziskus erster Lateinamerikanischer Papst - Buenos Aires(Argentinia), 
 Chemie und Theologie studiert, Nachfolger von Benedikt 16ten. 
 Wird auch Kardinal der Armen gennant - referenziert auf Franz von Assisi
 
-TODO: Hexenverbrennung - Woher kommt das, Position der Kirche, Heinrich Kramer
+ Hexenverbrennung - Woher kommt das, Position der Kirche, Heinrich Kramer
 Damals waren Hexen gefürchtet wegen ihrer Magie und das es vielleicht in Verbindung mit Teufel steht 
 die Kirche war damals auch gegen Hexen - Heinrich Kramer hat Hexenjagd betrieben
 - viele Menschen sterben - 18.Jahrhundert kaum mehr Hexen exekutionen
@@ -415,6 +429,8 @@ Ausgangspunkt: Judentum, Christen, Islam [Abrahamitische Religionen]
 
 ## Judentum
 
+15 MIo Juden -> in Ö nur 15k
+
 ### Sabbat
 
 TODO: Sabbat, was macht man da? Blauer/Grauer Faden; Keine Arbeit verrichten; ...
@@ -433,7 +449,11 @@ Weitere Regeln:
 -   Tiere müssen geschächtet werden (Kehle durchschneiden und ausbluten lassen; in Österreich nur erlaubt, wenn das Tier sofort nach dem Schnitt getötet wird)
 -   "Koche kein Lamm oder Zicklein in seiner Mutter’s Milch" -> Milch und Fleisch müssen getrennt verarbeitet und verzehrt werden (Oft 2 Küchen)
 
+Feste => Schabbat, Pessach, Schawot und Rosch Haschana (Neujahr im Herbst)
+
 ## Islam
+
+1.8 Mrd -> in Ö nur 700k
 
 > „Hingabe“, „Unterwerfung“ oder „Gehorsam“
 
