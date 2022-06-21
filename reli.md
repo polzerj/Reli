@@ -56,18 +56,33 @@ Die ersten 5 Bücher sind von Mose:
         -   Mose teilt das Rote Meer
         -   Ägypter ertrinken
         -   10 Gebote
+        -   Berg Sinai
 
 3.  Lev - _Levitikus_ (Gesetzessammlung)
 
-    -   ?
+    -   Regeln Gottes am Berg Sinai
+    -   Opfer bringen 
+    -   Erste Priester (Aaron)
+    -   Essensregeln ( Judenregeln zB Widerkäuer Paarhufer, kein Tierblut)
+    -   Hygieneregeln
+    -   Verbote/Gebot, Beziehungsregeln(kein Gay/lesbisch und kein Incest) blabla einfach lauter Regeln
 
 4.  Num - _Numeri_ (Zählung der Kampffähigen
 
-    -   ?
+    - Volkszählung
+    - Erstgeborene Isrealiten müssen nicht geopfert werden sondern nur zahlen
+    - Auf den Weg zum versprochenem Land Kanaan
+    - Volk mekkert - Kanaan von Ureinwohnern besetzt
+    - Gott hat garkein Bock mehr auf die Isrealiten - 38 Jahre in der Wüste bis alle die gemeckert haben verrecken
+    - Viele Kämpfe um das Land kanaan
+    
 
 5.  Dtn - _Deuteronomium_ "Zweites Gesetz"
 
-    -   ?
+    -  Bald in Kanaan
+    -  Mose gibt Stab an Josua ab weil er darf Kanaan nicht betreten
+    -  Mose wiederholt alle Gebote Gesetze Vebote und erwähnt auch neue Sachen wie eine zentrale Opferstelle
+    -  König darf nur von Gott gewählt werden und ein neuer Prophet kommt auch irgendwann
 
 46 Bücher im AT
 27 Bücher im NT
