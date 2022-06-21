@@ -69,7 +69,7 @@ Die ersten 5 Bücher sind von Mose:
 
 4.  Num - _Numeri_ (Zählung der Kampffähigen
 
-    - Volkszählung
+    - Volkszählung ( 12 Stämme Israels )
     - Erstgeborene Isrealiten müssen nicht geopfert werden sondern nur zahlen
     - Auf den Weg zum versprochenem Land Kanaan
     - Volk mekkert - Kanaan von Ureinwohnern besetzt
