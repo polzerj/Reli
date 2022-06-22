@@ -185,9 +185,21 @@ Nietsche glaubte, dass der Nihilismus eine Phase ist, die überkommen werden mus
 
 TODO: Gottesbilder (Demonisch, Leistungsgott)
 
-Im AT: Gott war im AT der Schöpfer, als Befreier, als Beschützer und als helfender Begleiter.
+Gottesbilder:
+
+Im AT: Gott war im AT der Schöpfer, als Befreier, als Beschützer und als helfender Begleiter. Rachsüchtig - ich bin der einzige- eifgersüchtig - menschen und städte vernichten die nicht an ihn glauben
 
 Im NT: Gott was ein Erlöser. Gott offenbart sich als Jesus Christus und ist ein Gott für alle Menschen. Gott ist Liebe.
+
+
+Gott ist Vater (ABBA)
+Abba = Papa in Kindersprache, Jesus meint damit dass Gott wie ein Vater war und dass er die Zuwendung von Gott spürt
+
+Gottes neue Ehtik
+Gesetze müssen nicht buchstabengetreu befolgt werden, Gesetze sollen angewendet werden, damit es allen gerecht wird. Gott lernt damit Verantwortung zu nehmen und situationgerecht zu handeln
+
+Der strafende Richtergott altes testament
+dämonisches gottesbild, angstmachender super gott, versucht menschen mit Angst auf den richtigen weg zu bringen, er bestraft jede verfehlung, keine barmherzigkeit oder güte
 
 Gott wird weiblich dargestellt - oft als Mutter - beispielsweise von Propheten Hoseja (Bärenmutter)
 
