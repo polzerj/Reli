@@ -104,11 +104,11 @@ Essener sind eine Glaubensgemeinschaft die sich abgespalten hat aus dem jüdisch
 
 ## Inspiration:
 
--   Verbalinspiration => Der Bibel wurden alle Worte von Gott eingehaucht
+- Verbalinspiration => Jedes Wort kommt von Gott
 
--   Personalinspiration => Einwirkung des Heiligen Geistes in persönliche Glaubenszeugnisse
+- Personalinspiration => Eine Person ist erleuchtet und schreibt einen Text ohne das Gott diktiert
 
--   Realinspiration => Heiliger Geist übermittelt Inhalt von heiligen Schriften
+- Realinspiration => Eine Person schreibt einen von Gott inspirierten Text, nach dem Schreiben INspiration wieder weg
 
 ## Götzen und Idole
 
